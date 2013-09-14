@@ -1,0 +1,3 @@
+# Just before make(1) is about to be run, this file is sourced
+
+sh CYGWIN-PATCHES/fix-intl-makefile.sh
