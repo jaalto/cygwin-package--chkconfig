@@ -1,5 +1,5 @@
 sdesc: "Manage symbolic links in the /etc/rc[0-6].d"
-ldesc: "Program provides a simple command-line tool for maintaining the
+ldesc: "Provides a simple command-line tool for maintaining the
 /etc/rc[0-6].d directory hierarchy by relieving system administrators
 from the task of directly manipulating the numerous symbolic links in
 those directories."
