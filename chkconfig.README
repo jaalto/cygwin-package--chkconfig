@@ -9,16 +9,10 @@ of directly manipulating the numerous symbolic links in those
 directories.
 
 Runtime requirements:
-  cygwin
-  libiconv2
   libintl8
-  libpopt0
 
 Build requirements:
-  cygwin
-  libiconv2
   libintl8
-  popt
 
 Canonical homepage:
   http://www.fastcoder.net/software/chkconfig
@@ -69,7 +63,8 @@ Port Notes:
 
 ----- version 1.3.30a-2 -----
 - Cygwin package update 2013-09-14 Jari Aalto
-- Add fix-intl-makefile.sh
+- Add fix-intl-makefile.sh, config.* files for x86_64
+- Clean up depends
 
 ----- version 1.3.30a-1 -----
 - New maintainer, 2007-08-20 Jari Aalto

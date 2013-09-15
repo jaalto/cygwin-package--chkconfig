@@ -4,4 +4,4 @@ ldesc: "Provides a simple command-line tool for maintaining the
 from the task of directly manipulating the numerous symbolic links in
 those directories."
 category: System
-requires: cygwin libiconv2 libintl8 libpopt0
+requires: libintl8
